@@ -17,16 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # Fecthing the current weather data of the device.
 
-![Screenshot_1621089179](https://user-images.githubusercontent.com/41040479/118365061-f9a02d00-b54f-11eb-83ab-b36f642cb2b7.png)
+![CLIMAapp_Easy-Resize com](https://user-images.githubusercontent.com/41040479/119655275-413f7800-bdde-11eb-9fdb-12c5104b4d76.jpg)
 
-
-
-# Search the weather by city name: 
-
-![Screenshot_1621089192](https://user-images.githubusercontent.com/41040479/118365105-2ce2bc00-b550-11eb-8625-9b0e376c5bcf.png)
-
-
-#fecthed the weather data by the cit name: 
-
-![Screenshot_1621089199](https://user-images.githubusercontent.com/41040479/118365121-4421a980-b550-11eb-90ce-5ce97bdda138.png)
 
